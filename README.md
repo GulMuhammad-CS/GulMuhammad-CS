@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I'm Gul Muhammad, a BSc Computer science student at Soton
 
 <!--
 **GulMuhammad-CS/GulMuhammad-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
