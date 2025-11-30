@@ -1,5 +1,7 @@
 ## Hi there 👋
-## I'm Gul Muhammad, a BSc Computer science student at Soton
+I'm Gul Muhammad, a BSc Computer science student at Soton, and currently in my penultimate year of my degree! (how time flies). I always look for opportunities to learn, even if it means falling flat on my face multiple times, but applying those lessons to something that is truly meaningfull as well as feasible. 
+
+
 
 <!--
 **GulMuhammad-CS/GulMuhammad-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
