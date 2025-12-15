@@ -24,8 +24,8 @@ Most Recent Projects:
   - Python Chess Agent for custom 5x5 version of chess
   - Java Clinic Management System
 
-You can reach me through:
-Email: g.muhammad2912@gmail.com
+You can reach me through: <br>
+Email: g.muhammad2912@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/gul-muhammad-my/
 
 
